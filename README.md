@@ -1,2 +1,16 @@
 # Simple-Responsive-Landing-Page
-Created a responsive landing page using HTML5 and CSS3 with header, hero section, navigation bar, CTA button, and footer. Applied Flexbox, media queries, and responsive design principles. Tested the webpage using Live Server in VS Code for proper responsiveness and layout.
+This project is a simple responsive landing page created using HTML and CSS.
+## Features
+- Responsive Design
+- Header Navigation
+- Hero Section
+- Footer
+- Media Queries
+## Technologies Used
+- HTML5
+- CSS3
+- Flexbox
+- Media Queries
+
+author
+venkatabhavani
